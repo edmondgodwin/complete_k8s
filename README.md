@@ -2,6 +2,10 @@
 
 ## emphiramal containers 
 
+## Wiki page
+
+https://github.com/DeekshithSN/kubernetes/wiki
+
 
 ## ingress 
 

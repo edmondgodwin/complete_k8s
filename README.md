@@ -2,7 +2,7 @@
 
 ## emphiramal containers 
 
-## Wiki page
+## complete Wiki page
 
 https://github.com/DeekshithSN/kubernetes/wiki
 
